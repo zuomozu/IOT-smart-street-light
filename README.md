@@ -18,3 +18,7 @@ If it isn't updating on firbase
 -> Paste the url and get hexadecimal from, https://www.grc.com/fingerprints.htm
 -> Open your firebase-arduino-master folder and go to firbaseHTTPClient.h
 -> Open it using notepad and chnage the hex value at the bottom of the file.
+
+
+Circuit Diagram link:
+![image](https://user-images.githubusercontent.com/49607944/148423164-bb2c4315-c51c-40a1-b975-d600e831e010.png)
